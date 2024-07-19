@@ -31,3 +31,4 @@ public class UserController {
         else throw new UserNotFoundException();
     }
 }
+
